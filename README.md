@@ -1,6 +1,6 @@
 # Smart CD - Now With More k [![GitHub version](https://badge.fury.io/gh/fleeting%2Fsmart-cd-with-k.svg)](http://badge.fury.io/gh/fleeting%2Fsmart-cd-with-k)
 
-A simple zsh plugin to runs [k](https://github.com/supercrabtree/k) every time the working directory changes.
+A simple zsh plugin that runs [k](https://github.com/supercrabtree/k) every time the working directory changes.
 
 Inspired by and initial credit to [dbkaplun/smart-cd](https://github.com/dbkaplun/smart-cd), which runs `ls` and `git status` on each cd. I loved that idea but wanted to use `k` instead.
 
